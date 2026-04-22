@@ -1,6 +1,6 @@
 class Binary {
     public static void main(String[] args) {
-        int arr[] = {10, 20, 30, 40, 50};
+        int arr[] = {10, 30, 50, 60, 70};
         int key = 30;
 
         int low = 0, high = arr.length - 1;
